@@ -17,7 +17,7 @@ public class Cat implements Serializable
   public String toString()
   {
     return ("My cat named " + name + " is " + age + " years old and " +
-            " weighs " + weight + " pounds and has " + color + " fur.");
+            "weighs " + weight + " pounds and has " + color + " fur.");
   }
   
 }

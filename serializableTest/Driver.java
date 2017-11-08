@@ -9,8 +9,7 @@ public class Driver
 {
   public static void main(String[] args)
   {
-    System.out.println("Hello World");
-    writeObject(new Cat("Garfield", 12, 40, "orange"));
+    //writeObject(new Cat("Garfield", 12, 40, "orange"));
     System.out.println(readObject("gameState.file"));
 
   }
